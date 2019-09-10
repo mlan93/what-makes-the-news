@@ -1,4 +1,4 @@
-# Project 04 - Media NLP Topics
+# What Makes the News? A NLP Analysis with A/B Testing
 **By Max Lan**
 
 **Overview:**
